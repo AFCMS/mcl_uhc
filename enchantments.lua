@@ -1,16 +1,16 @@
 mcl_uhc.enchantments = {
     ["pickaxe"] = {
-        {name="unbreaking", level=1}
-        {name="efficiency", level=3}
-    }
+        {name="unbreaking", level=1},
+        {name="efficiency", level=3},
+    },
     ["shovel"] = {
-        {name="unbreaking", level=1}
-        {name="efficiency", level=3}
-    }
+        {name="unbreaking", level=1},
+        {name="efficiency", level=3},
+    },
     ["axe"] = {
-        {name="unbreaking", level=1}
-        {name="efficiency", level=3}
-    }
+        {name="unbreaking", level=1},
+        {name="efficiency", level=3},
+    },
 }
 
 minetest.register_on_craft(function(itemstack, player, old_craft_grid, craft_inv)
