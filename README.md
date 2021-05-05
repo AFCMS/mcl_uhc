@@ -5,6 +5,7 @@ UHC aditions to MineClone2
 
 * Auto enchantement for crafted pick, axe ans shovel
 * Iron and Gold ore drop ingots insteed of themselves
+* Lightning on death
 
 ## TODO
 
