@@ -4,4 +4,4 @@ mcl_uhc = {}
 
 dofile(modpath.."/drops.lua")
 dofile(modpath.."/enchantments.lua")
---dofile(modpath.."/lightning.lua")
+dofile(modpath.."/lightning.lua")
